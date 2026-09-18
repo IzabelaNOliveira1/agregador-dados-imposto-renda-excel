@@ -86,4 +86,4 @@ Não publique no GitHub uma versão preenchida com informações reais. CPF, end
 
 ## Autora
 
-Izabela
+Izabela Oliveira
